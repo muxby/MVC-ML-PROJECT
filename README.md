@@ -1,1 +1,2 @@
-# MVC-ML-PROJECT
+# Temperature Variation Modeling in a Room Using Partial Derivatives
+This project has illustrated the central role of multivariable calculus, particularly use of partial derivatives, in tackling modeling and understanding of physical phenomenon as seen in distribution of heat. We plotted and analyzed the temperature behavior in a room heated from the center using simulations and gradient analysis. This argues in favor of that calculus is not merely a mathematical instrument but is also a connection of theory and practical applications.
